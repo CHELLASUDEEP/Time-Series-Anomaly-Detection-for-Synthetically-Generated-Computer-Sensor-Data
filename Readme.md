@@ -19,5 +19,5 @@ for improvement and the potential of synthetic data in system performance foreca
 
 # Note
 
-To collect the sensor data, we need to execute the Python code while running the Open Hardware Monitor app in the background such that it extracts the sensor information. You can download the app from clicking the mentioned link, \href{https://openhardwaremonitor.org/}{Open Hardware Monitor}.
+To collect the sensor data, we need to execute the Python code while running the Open Hardware Monitor app in the background such that it extracts the sensor information. You can download the app from clicking the mentioned link, \href{https://openhardwaremonitor.org/}
 
